@@ -1,5 +1,7 @@
 ![Css Battle Logo](https://cssbattle.dev/images/logo.svg)
+
 Repositório para armazenar as soluções das CSS Battles que eu fiz.
+
 
 O objetivo do site [CSSBattle](https://cssbattle.dev) é replicar uma imagem proposta utilizando apenas CSS puro.
 Você ganha pontos dependendo da precisão que o desenho foi replicado e com a quantidade de caracteres utilizados (quanto menos caracteres, mais pontos).
