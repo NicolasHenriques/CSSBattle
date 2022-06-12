@@ -1,0 +1,40 @@
+<div id="c1" class="c"></div>
+<div id="c2" class="c"></div>
+<div id="c3" class="c"></div>
+<style>
+  body{
+    background:#62306D;
+    margin:0;
+  }
+  .c {
+    width: 60;
+    height: 60;
+    border-radius:50px;
+  }
+  #c1 {
+    background: #AA445F;
+    border:20px solid #E38F66;
+    margin-left:150;
+    margin-top:50;
+  }
+  div::after {
+    content:' ';
+    width: 100;
+    height: 400;
+    background: #F7EC7D;
+    position:absolute;
+    border-radius:50px;
+    z-index:-1;
+    margin:-20;
+  }
+  #c2, #c3 {
+    background: #E38F66;
+    border:20px solid #AA445F;
+  }
+  #c2 {
+    margin-left:50;
+  }
+  #c3{
+    margin:-100 0 0 250;
+  }
+</style>
