@@ -1,0 +1,72 @@
+<div id="c1"></div>
+<div id="limit">
+  <div id="l-arm"></div>
+  <div id="center"></div>
+  <div id="r-arm"></div>
+</div>
+<style>
+  body{
+    background: #191210;
+    margin:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
+  #c1 {
+    width: 140;
+    height: 140;
+    background: #ECA03D;
+    border-radius:100px;
+  }
+  #limit {
+    width:300;
+    height:140;
+    position:absolute;
+    display:flex;
+    align-items:center;
+  }
+  #l-arm {
+    width:100;
+    height:50;
+    background:#ECA03D;
+    border-radius: 0 0 100px 100px;
+	margin-top:50;
+    float:left;
+  }
+  #l-arm::before {
+    content:' ';
+    position:absolute;
+    height:60;
+    width:60;
+    background:#191210;
+    border-radius:50%;
+    z-index:1;
+    margin:-30 0 0 20
+  }
+  #center {
+    background:#84271C;
+    height:50;
+    width:50;
+    float:left;
+    border-radius:50%;
+    border: 25px solid #191210;
+  }
+  #r-arm {
+    width:100;
+    height:50;
+    background:#ECA03D;
+    border-radius: 100px 100px 0 0;
+	margin-top:-50;
+    float:left;
+  }
+  #r-arm::after {
+    content:' ';
+    position:absolute;
+    height:60;
+    width:60;
+    background:#191210;
+    border-radius:50%;
+    z-index:1;
+    margin:20 0 0 20
+  }
+</style>

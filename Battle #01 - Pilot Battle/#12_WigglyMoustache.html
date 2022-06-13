@@ -1,0 +1,61 @@
+<div id="big-c1"></div>
+<div id="lil-c1"></div>
+<div id="limit">
+  <div id="lil-c2"></div>
+  <div id="big-c2"></div>
+  <div id="c1"></div>
+</div>
+<style>
+  body {
+    background: #F5D6B4;
+    margin:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
+  #big-c1 {
+    background:#D86F45;
+    width:100;
+    height:50;
+    border-radius:100px 100px 0 0;
+    position:absolute;
+    bottom:50%;
+  }
+  #lil-c1 {
+    background:#F5D6B4;
+    width:60;
+    height:60;
+    border-radius:50%;
+    position:absolute;
+  }
+  #limit {
+    width:260;
+    height:100;
+    display:flex;
+    align-items:center
+  }
+  #lil-c2 {
+    background:#D86F45;
+    width:20;
+    height:20;
+    border-radius:50%;
+    box-shadow:240px 0 #D86F45;
+  }
+  #big-c2 {
+    background:#D86F45;
+    width:100;
+    height:50;
+    border-radius:0 0 100px 100px;
+    position:absolute;
+    margin-top:50;
+    box-shadow:160px 0 #D86F45;
+  }
+  #c1 {
+    background:#F5D6B4;
+    width:60;
+    height:60;
+    border-radius:50%;
+    z-index:1;
+    box-shadow:160px 0 #F5D6B4;
+  }
+</style>
