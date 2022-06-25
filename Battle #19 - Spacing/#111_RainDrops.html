@@ -1,0 +1,44 @@
+<div id="wrapper">
+    <div id="w1" class="rd"></div>
+    <div id="w2" class="rd"></div>
+    <div id="w3" class="rd"></div>
+    <div id="w4" class="rd"></div>
+  </div>
+  <style>
+    body {
+      background:#F3AC3C;
+      margin:0;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+    }
+    #wrapper {
+      width:180px;
+      height:180px;
+      transform:rotate(-45deg);
+    }
+    .rd {
+      background:#254241;
+      height:80;
+      width:80;
+      float:left;
+      margin-bottom:20;
+    }
+    #w1 {
+      border-radius:50% 50% 0;
+      background:transparent;
+    }
+    #w2 {
+      float:right;
+      border-radius:50% 50% 50% 0;
+    }
+    #w3 {
+      border-radius:50% 0 50% 50%;
+    }
+    #w4 {
+      position:absolute;
+      border-radius:50% 50% 0;
+      margin-top:-7;
+      margin-left:-7;
+    }
+  </style>
