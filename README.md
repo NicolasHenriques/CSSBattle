@@ -34,7 +34,7 @@ O meu objetivo resolvendo esses desafios é aprimorar meu conhecimento e colocar
 | [#14. Web Maker Logo](https://cssbattle.dev/play/14) | --- | --- | --- |
 | [#15. Overlap](https://cssbattle.dev/play/15) | --- | --- | --- |
 | [#16. Eye of the Tiger](https://cssbattle.dev/play/16) | --- | --- | --- |
-| [#17. Fidget Spinner](https://cssbattle.dev/play/17) | --- | --- | --- |
+| [#17. Fidget Spinner](https://cssbattle.dev/play/17) | [#17. Código](https://github.com/NicolasHenriques/CSSBattle/blob/main/Battle%20%2302%20-%20Visibility/%2317_FidgetSpinner.html) | 24/06/2022 | 100% |
 | [#18. Matrix](https://cssbattle.dev/play/18) | [#18. Código](https://github.com/NicolasHenriques/CSSBattle/blob/main/Battle%20%2302%20-%20Visibility/%2318_Matrix.html) | 11/06/2022 | 100% |
 
 
@@ -72,7 +72,7 @@ O meu objetivo resolvendo esses desafios é aprimorar meu conhecimento e colocar
 
 | Link do Desafio | Minha Solução | Data da Resolução | Precisão Alcançada |
 |:---:|:---:|:---:|:---:|
-| [#31. Equals](https://cssbattle.dev/play/31) | --- | --- | --- |
+| [#31. Equals](https://cssbattle.dev/play/31) | [#31. Código](https://github.com/NicolasHenriques/CSSBattle/blob/main/Battle%20%2306%20-%20Conic/%2331_Equals.html) | 24/06/2022 | 100% |
 | [#32. Band-aid](https://cssbattle.dev/play/32) | --- | --- | --- |
   
   
@@ -113,7 +113,7 @@ O meu objetivo resolvendo esses desafios é aprimorar meu conhecimento e colocar
 | Link do Desafio | Minha Solução | Data da Resolução | Precisão Alcançada |
 |:---:|:---:|:---:|:---:|
 | [#47. Corona Virus](https://cssbattle.dev/play/47) | --- | --- | --- |
-| [#48. Wash Your Hands](https://cssbattle.dev/play/48) | --- | --- | --- |
+| [#48. Wash Your Hands](https://cssbattle.dev/play/48) | [#48. Código](https://github.com/NicolasHenriques/CSSBattle/blob/main/Battle%20%2310%20-%20Block/%2348_WashYourHands.html) | 24/06/2022 | 100% |
 | [#49. Stay at Home](https://cssbattle.dev/play/49) | --- | --- | --- |
 | [#50. Use Hand Sanitizer](https://cssbattle.dev/play/50) | --- | --- | --- |
 | [#51. Wear a Mask](https://cssbattle.dev/play/51) | --- | --- | --- |
@@ -159,7 +159,7 @@ O meu objetivo resolvendo esses desafios é aprimorar meu conhecimento e colocar
 | [#73. Happy Tiger](https://cssbattle.dev/play/73) | --- | --- | --- |
 | [#74. Danger Noodle](https://cssbattle.dev/play/74) | --- | --- | --- |
 | [#75. Hippo](https://cssbattle.dev/play/75) | --- | --- | --- |
-| [#76. Beeee](https://cssbattle.dev/play/76) | --- | --- | --- |
+| [#76. Beeee](https://cssbattle.dev/play/76) | [#76. Código](https://github.com/NicolasHenriques/CSSBattle/blob/main/Battle%20%2313%20-%20Clip/%2376_Beeee.html) | 23/06/2022 | 100% |
 
 
 ## Battle #14 - ZIndex
@@ -179,7 +179,7 @@ O meu objetivo resolvendo esses desafios é aprimorar meu conhecimento e colocar
 | [#81. Odoo](https://cssbattle.dev/play/81) | --- | --- | --- |
 | [#82. Diamond Cut](https://cssbattle.dev/play/82) | --- | --- | --- |
 | [#83. Supernova](https://cssbattle.dev/play/83) | --- | --- | --- |
-| [#84. Junction](https://cssbattle.dev/play/84) | --- | --- | --- |
+| [#84. Junction](https://cssbattle.dev/play/84) | [#84. Código](https://github.com/NicolasHenriques/CSSBattle/blob/main/Battle%20%2315%20-%20Filter/%2384_Junction.html) | 23/06/2022 | 100% |
 | [#85. Pythagoras](https://cssbattle.dev/play/85) | --- | --- | --- |
 | [#86. Stairway](https://cssbattle.dev/play/86) | --- | --- | --- |
 | [#87. Building Blocks](https://cssbattle.dev/play/87) | --- | --- | --- |
@@ -197,7 +197,7 @@ O meu objetivo resolvendo esses desafios é aprimorar meu conhecimento e colocar
 | [#93. Great Wall](https://cssbattle.dev/play/93) | --- | --- | --- |
 | [#94. Ripples](https://cssbattle.dev/play/94) | --- | --- | --- |
 | [#95. Pokeball](https://cssbattle.dev/play/95) | [#95. Código](https://github.com/NicolasHenriques/CSSBattle/blob/main/Battle%20%2316%20-%20Aspect/%2395_Pokeball.html) | 11/06/2022 | 100% |
-| [#96. Mandala](https://cssbattle.dev/play/94) | --- | --- | --- |
+| [#96. Mandala](https://cssbattle.dev/play/96) | --- | --- | --- |
 
 
 ## Battle #17 - Christmas 🎄
@@ -230,7 +230,7 @@ O meu objetivo resolvendo esses desafios é aprimorar meu conhecimento e colocar
 |:---:|:---:|:---:|:---:|
 | [#109. Curtain](https://cssbattle.dev/play/109) | --- | --- | --- |
 | [#110. Sunrays](https://cssbattle.dev/play/110) | --- | --- | --- |
-| [#111. Raindrops](https://cssbattle.dev/play/111) | --- | --- | --- |
+| [#111. Raindrops](https://cssbattle.dev/play/111) | [#111. Código](https://github.com/NicolasHenriques/CSSBattle/blob/main/Battle%20%2319%20-%20Spacing/%23111_RainDrops.html) | 23/06/2022 | 100% |
 | [#112. Chevron](https://cssbattle.dev/play/112) | --- | --- | --- |
 | [#113. Black Light](https://cssbattle.dev/play/113) | --- | --- | --- |
 | [#114. Negative Box](https://cssbattle.dev/play/114) | --- | --- | --- |
