@@ -82,7 +82,7 @@ O meu objetivo resolvendo esses desafios é aprimorar meu conhecimento e colocar
 |:---:|:---:|:---:|:---:|
 | [#33. Birdie](https://cssbattle.dev/play/33) | --- | --- | --- |
 | [#34. Christmas Tree](https://cssbattle.dev/play/34) | --- | --- | --- |
-| [#35. Ice Cream](https://cssbattle.dev/play/35) | --- | --- | --- |
+| [#35. Ice Cream](https://cssbattle.dev/play/35) | [#35. Código](https://github.com/NicolasHenriques/CSSBattle/blob/main/Battle%20%2307%20-%20Backface/%2335_IceCream.html) | 26/06/2022 | 100% |
 | [#36. Interleaved](https://cssbattle.dev/play/36) | --- | --- | --- |
 | [#37. Tunnel](https://cssbattle.dev/play/37) | --- | --- | --- |
 | [#38. Not Simply Square](https://cssbattle.dev/play/38) | --- | --- | --- |
